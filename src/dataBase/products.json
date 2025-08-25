@@ -1,0 +1,32 @@
+{
+    "products": [
+    {
+        "id":"abc123",
+        "productName": "PoloReact",
+        "productCode": "aaaaaaaaa1111",
+        "productDescription": "Tipa tu estilo con precisión: lleva tu pasión por TypeScript en cada hilo.",
+        "price": "20",
+        "moneda": "USD",
+        "listOfCharacteristics": [
+            "estampados ingeniosos",
+            "hecho 100% de algodon",
+            "costuras reforzadas",
+            "corte moderno"
+        ]
+    },
+    {
+        "id":"def456",
+        "productName": "CamisetaReact",
+        "productCode": "bbbbbbbbb222",
+        "productDescription": "Domina el servidor con estilo: viste con orgullo tu título de Backend Developer.",
+        "price": "30",
+        "moneda": "USD",
+        "listOfCharacteristics": [
+            "estampados ingeniosos",
+            "hecho 100% de algodon",
+            "costuras reforzadas",
+            "corte moderno"
+        ]
+
+    }]
+}
