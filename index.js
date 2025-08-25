@@ -8,7 +8,7 @@ app.get("/", (req, res)=>{
 });
 
 app.listen(PORT,()=>{
-    console.log(`La aplicacion de Express esta corriendo en el Puerto https://localHost:${PORT}`);
+    console.log(`La aplicacion de Express esta corriendo en el Puerto http://localHost:${PORT}`);
 });
 
 
